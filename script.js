@@ -1,3 +1,4 @@
+let list = document.querySelector('.slider .list');
 let items = document.querySelectorAll('.slider .list .item');
 let prev = document.getElementById('prev');
 let next = document.getElementById('next');
