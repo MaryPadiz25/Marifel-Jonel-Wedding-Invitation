@@ -24,7 +24,7 @@ overflow: hidden;
     transition: 1s;
 }
 .list img{
-    width: 1050px;
+    width: 525px;
     max-width:350px;
     height:566px;
     object-fit: cover;
